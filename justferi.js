@@ -2764,6 +2764,7 @@ Ketik List Dibawah ini
 							'msa': 'metal slug awakening',
 							'msw': 'marvel super war',
 							'opm': 'one punch man',
+							'pb': 'point blank',
 							'pubg': 'pubg mobile',
 							'pmg': 'pubg mobile global',
 							'rm': 'ragnarok m: eternal love',
