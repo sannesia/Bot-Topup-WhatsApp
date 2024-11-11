@@ -48,5 +48,6 @@ Sebelum menyiapkan bot, pastikan Anda memiliki:
 5. **Run the bot:**
    ```
    node index.js
+6. Untuk menampilkan harga produk silahkan command 'Setprofit' 
 
 **All credits to JF Dev.**
